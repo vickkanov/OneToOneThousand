@@ -14,7 +14,7 @@ namespace OneToOneThousand
                                          "ten", "eleven", "twelve", "thirteen", "fourteen",
                                          "fifteen", "sixteen", "seventeen", "eighteen", "nineteen"};
 
-            string[] strTens = {"", "", "twenty", "thirty", "fourty", 
+            string[] strTens = {"", "", "twenty", "thirty", "forty", 
                                 "fifty", "sixty", "seventy", "eighty", "ninety"};
 
             string strHundred  = "hundred",
